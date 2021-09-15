@@ -9,6 +9,8 @@ public class SyntacticAnalyser {
 
 	public static ParseTree parse(List<Token> tokens) throws SyntaxException {
 		//Turn the List of Tokens into a ParseTree.
+		
+
 		return new ParseTree();
 	}
 
